@@ -1,22 +1,13 @@
 :root {
+    /*Aplication*/
     --primary: #fc5185;
     --primary-dark: #f83771;
     --secondary: #364f6b;
+    /*Aplication*/
 
 
 
-
-
-
-
-
-    --bs-test: #245297;
-
-
-
-
-    --bs-gast: #eeea11;
-
+    /*Default Bootstrap*/
     --bs-blue: #0d6efd;
     --bs-indigo: #6610f2;
     --bs-purple: #6f42c1;
@@ -38,6 +29,12 @@
     --bs-danger: #dc3545;
     --bs-light: #f8f9fa;
     --bs-dark: #212529;
+    /*Default Bootstrap*/
 
 
+
+    /*Test*/
+    --bs-test: #245297;
+    --bs-gast: #eeea11;
+     /*Test*/
 }
